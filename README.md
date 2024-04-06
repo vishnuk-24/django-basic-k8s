@@ -1,0 +1,1 @@
+# django-basic-k8s
